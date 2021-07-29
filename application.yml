@@ -81,5 +81,5 @@ spring:
     data: classpath*:db/mysql/data.sql
     url: jdbc:mysql://localhost:3306/petclinic?useSSL=false
     username: root
-    password: petclinic
+    password: root
     initialization-mode: ALWAYS
